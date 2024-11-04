@@ -1,0 +1,61 @@
+body {
+    font-family: sans-serif;
+}
+
+
+.y{
+color: red;
+
+}
+q{
+width: 300px;
+height: 300px;
+}
+ body{
+margin: 0;
+height: 375vh;
+background-size: cover;
+background-repeat: no-repeat;
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzd7WkvQEhvFnqiKFJ0hm5J512RViMwEtybg&s");
+}
+h2{
+color: white;
+
+
+}
+ol:hover{
+color: white;
+
+
+}
+a{
+text-decoration: none;
+color: red;
+
+}
+nav a{
+
+box-shadow:color blue 30px;
+padding: 30px;
+border-radius: 30px;
+
+}
+img{
+
+width: 250px;
+
+}
+h1{
+color: white;
+
+
+}
+nav a:hover{
+color: blue;
+box-shadow: orane;
+}
+h2{
+color: green;
+
+
+}
